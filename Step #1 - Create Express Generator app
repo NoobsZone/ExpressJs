@@ -1,0 +1,15 @@
+Step #1 - Create Express Generator app
+
+Step #2 - Install Mongoose Library
+  command- npm i Mongoose
+
+Step #3 - Import Mongoose Library in our app.js
+
+Step #4 - Create a Models Folder
+
+Step #5 - Create a Schema for your collection
+        - collection = students
+
+Step #6 Create a Mongoose Model of the same schema collection
+
+Step #7 Import the newly created Model into app.js
